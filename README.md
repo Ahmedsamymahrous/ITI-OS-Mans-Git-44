@@ -1,8 +1,8 @@
-# Git Practice Table for ITI Mansoura OS Track 🎈
+# ✨ Git Practice Table for ITI Mansoura OS Track
 Welcome to the Git Practice Table!\
 This table has been created to provide the ITI students with a hands-on environment for practicing Git commands and collaborating with their coworkers.\
 This README.md file will guide you through the setup, usage, and contribution process.
-***
+
 ## 🛠️ Usage
 The Git Practice Table is a simple HTML table.\
 It includes various table elements that can be modified, added, or deleted\
@@ -35,7 +35,6 @@ So, follow the below steps to contribute in this repository:
     ```bash
     git push
     ```
-***
 
 ## 🤝 Handling Conflicts
 When collaborating on a shared repository, conflicts may arise when multiple contributors make changes to the same part of the code simultaneously.\

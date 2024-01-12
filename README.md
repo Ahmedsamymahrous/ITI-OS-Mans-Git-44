@@ -39,8 +39,7 @@ So, follow the below steps to contribute in this repository:
 
 ## 🤝 Handling Conflicts
 When collaborating on a shared repository, conflicts may arise when multiple contributors make changes to the same part of the code simultaneously.\
-Here's how to handle conflicts:
-If Git detects conflicts during the rebase, you'll need to resolve them manually. Open the conflicted files in your text editor and look for sections marked with conflict markers ```<<<<<<<, =======, >>>>>>>```.
+So, if Git detects conflicts during the rebase, you'll need to resolve them manually. Open the conflicted files in your text editor and look for sections marked with conflict markers ```<<<<<<<, =======, >>>>>>>```.
 
 ```html
     <<<<<<< HEAD
